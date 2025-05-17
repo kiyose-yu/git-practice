@@ -1,1 +1,3 @@
 newfileの更新データ。
+newfile 作成
+push リポジトリ
